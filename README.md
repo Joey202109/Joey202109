@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joey202109
-- 👀 I’m interested in coding for cylindrical shell buckling.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning what I interest in.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
